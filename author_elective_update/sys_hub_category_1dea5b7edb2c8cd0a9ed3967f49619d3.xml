@@ -18,7 +18,7 @@
     <sys_translated_text action="delete_multiple" query="documentkey=1dea5b7edb2c8cd0a9ed3967f49619d3"/>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
-        <application display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</application>
+        <application display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</application>
         <file_path/>
         <instance_id>b4c8c878dbb7d74c439ef70fbf96194f</instance_id>
         <instance_name>ancshowcasedemo</instance_name>
@@ -51,10 +51,10 @@
         <sys_metadata>1dea5b7edb2c8cd0a9ed3967f49619d3</sys_metadata>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Zabbix</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_parent/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_scope_delete display_value="">7d3a3852c27341f8add6eef5f8c545f1</sys_scope_delete>
         <sys_update_name>sys_hub_category_1dea5b7edb2c8cd0a9ed3967f49619d3</sys_update_name>
         <sys_update_version display_value="sys_hub_category_1dea5b7edb2c8cd0a9ed3967f49619d3">7beadb7edb2c8cd0a9ed3967f4961943</sys_update_version>

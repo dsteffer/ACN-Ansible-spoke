@@ -27,9 +27,9 @@
         <sys_mod_count>34</sys_mod_count>
         <sys_name>Ansible - Update Inventory Sources</sys_name>
         <sys_overrides/>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_24c59959dbac04d0a9ed3967f496199d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-23 11:39:17</sys_updated_on>
@@ -217,7 +217,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 11:59:56</sys_updated_on>
@@ -283,7 +283,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 12:16:05</sys_updated_on>
@@ -349,7 +349,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 11:59:56</sys_updated_on>
@@ -429,7 +429,7 @@
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:11:45</sys_updated_on>
@@ -586,7 +586,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 12:37:46</sys_updated_on>
@@ -668,7 +668,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 12:37:47</sys_updated_on>
@@ -749,7 +749,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:00:03</sys_updated_on>
@@ -830,7 +830,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:00:03</sys_updated_on>
@@ -866,7 +866,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 12:37:46</sys_updated_on>
@@ -1120,7 +1120,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 11:59:55</sys_updated_on>
@@ -1201,7 +1201,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 11:59:55</sys_updated_on>
@@ -1285,7 +1285,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-23 11:39:09</sys_updated_on>
@@ -1368,7 +1368,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-23 11:39:09</sys_updated_on>
@@ -1451,7 +1451,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-23 11:39:09</sys_updated_on>
@@ -1534,7 +1534,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:00:06</sys_updated_on>
@@ -1617,7 +1617,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-23 11:39:09</sys_updated_on>
@@ -1700,7 +1700,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 12:37:48</sys_updated_on>
@@ -1783,7 +1783,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 12:37:48</sys_updated_on>
@@ -1820,7 +1820,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 11:59:56</sys_updated_on>
@@ -1886,7 +1886,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 12:16:05</sys_updated_on>
@@ -1952,7 +1952,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 11:59:56</sys_updated_on>
@@ -2032,7 +2032,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:11:45</sys_updated_on>
@@ -2189,7 +2189,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 12:37:46</sys_updated_on>
@@ -2271,7 +2271,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 12:37:47</sys_updated_on>
@@ -2352,7 +2352,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:00:03</sys_updated_on>
@@ -2433,7 +2433,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:00:03</sys_updated_on>
@@ -2469,7 +2469,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 12:37:46</sys_updated_on>
@@ -2671,9 +2671,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>07242d91db2044d0a9ed3967f49619bd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Inventory Name</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_24c59959dbac04d0a9ed3967f496199d_inventory_name_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 11:59:55</sys_updated_on>
@@ -2694,9 +2694,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>47242d91db2044d0a9ed3967f49619b8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Ansible Tower</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_24c59959dbac04d0a9ed3967f496199d_ansible_tower_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 11:59:55</sys_updated_on>
@@ -2718,9 +2718,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>06dc2591db6044d0a9ed3967f496198d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Error Message</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_24c59959dbac04d0a9ed3967f496199d_error_message_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 12:37:48</sys_updated_on>
@@ -2741,9 +2741,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>06dc2591db6044d0a9ed3967f4961992</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Job ID</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_24c59959dbac04d0a9ed3967f496199d_job_id_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 12:37:48</sys_updated_on>
@@ -2764,9 +2764,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>4edc2591db6044d0a9ed3967f4961971</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Status Code</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_24c59959dbac04d0a9ed3967f496199d_status_code_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 12:37:48</sys_updated_on>
@@ -2787,9 +2787,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>4edc2591db6044d0a9ed3967f4961976</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Error Code</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_24c59959dbac04d0a9ed3967f496199d_error_code_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 12:37:48</sys_updated_on>
@@ -2810,9 +2810,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>4edc2591db6044d0a9ed3967f496197b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Responce Body</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_24c59959dbac04d0a9ed3967f496199d_responce_body_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 12:37:48</sys_updated_on>
@@ -2833,9 +2833,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>64f1bdd9db6044d0a9ed3967f49619b5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Inventory Source</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_24c59959dbac04d0a9ed3967f496199d_inventory_source_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:00:06</sys_updated_on>
@@ -2856,9 +2856,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>cadc2591db6044d0a9ed3967f49619a3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Job Status</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_24c59959dbac04d0a9ed3967f496199d_job_status_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 12:37:48</sys_updated_on>
@@ -2880,7 +2880,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_overrides/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-23 11:39:20</sys_updated_on>
@@ -2912,7 +2912,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_overrides/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-23 11:39:16</sys_updated_on>
@@ -3028,7 +3028,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:17</sys_updated_on>
@@ -3236,7 +3236,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:16</sys_updated_on>
@@ -3302,7 +3302,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:17</sys_updated_on>
@@ -3368,7 +3368,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:17</sys_updated_on>
@@ -3525,7 +3525,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:17</sys_updated_on>
@@ -3607,7 +3607,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:17</sys_updated_on>
@@ -3688,7 +3688,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:17</sys_updated_on>
@@ -3769,7 +3769,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:17</sys_updated_on>
@@ -3805,7 +3805,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:16</sys_updated_on>
@@ -3917,7 +3917,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:16</sys_updated_on>
@@ -3998,7 +3998,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:16</sys_updated_on>
@@ -4082,7 +4082,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:18</sys_updated_on>
@@ -4165,7 +4165,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:18</sys_updated_on>
@@ -4248,7 +4248,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:18</sys_updated_on>
@@ -4331,7 +4331,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-23 11:39:17</sys_updated_on>
@@ -4414,7 +4414,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-23 11:39:17</sys_updated_on>
@@ -4497,7 +4497,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-23 11:39:17</sys_updated_on>
@@ -4580,7 +4580,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-23 11:39:17</sys_updated_on>
@@ -4617,7 +4617,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:17</sys_updated_on>
@@ -4825,7 +4825,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:16</sys_updated_on>
@@ -4891,7 +4891,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:17</sys_updated_on>
@@ -4957,7 +4957,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:17</sys_updated_on>
@@ -5114,7 +5114,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:17</sys_updated_on>
@@ -5196,7 +5196,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:17</sys_updated_on>
@@ -5277,7 +5277,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:17</sys_updated_on>
@@ -5358,7 +5358,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:17</sys_updated_on>
@@ -5394,7 +5394,7 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_name/>
         <sys_package/>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name/>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:16</sys_updated_on>
@@ -5454,9 +5454,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>29a535d1dba044d0a9ed3967f4961984</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Inventory Name</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_25a535d1dba044d0a9ed3967f496196d_inventory_name_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:16</sys_updated_on>
@@ -5477,9 +5477,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>a1a535d1dba044d0a9ed3967f4961973</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Ansible Tower</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_25a535d1dba044d0a9ed3967f496196d_ansible_tower_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:16</sys_updated_on>
@@ -5501,9 +5501,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>35a535d1dba044d0a9ed3967f49619ef</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Status Code</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_25a535d1dba044d0a9ed3967f496196d_status_code_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:17</sys_updated_on>
@@ -5524,9 +5524,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>4aa575d1dba044d0a9ed3967f4961928</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Job ID</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_25a535d1dba044d0a9ed3967f496196d_job_id_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:18</sys_updated_on>
@@ -5547,9 +5547,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>4aa575d1dba044d0a9ed3967f496192d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Job Status</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_25a535d1dba044d0a9ed3967f496196d_job_status_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:18</sys_updated_on>
@@ -5570,9 +5570,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>4aa575d1dba044d0a9ed3967f4961932</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Inventory Source</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_25a535d1dba044d0a9ed3967f496196d_inventory_source_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:18</sys_updated_on>
@@ -5593,9 +5593,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>f9a575d1dba044d0a9ed3967f4961900</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Error Code</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_25a535d1dba044d0a9ed3967f496196d_error_code_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:18</sys_updated_on>
@@ -5616,9 +5616,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>f9a575d1dba044d0a9ed3967f4961905</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Responce Body</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_25a535d1dba044d0a9ed3967f496196d_responce_body_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:18</sys_updated_on>
@@ -5639,9 +5639,9 @@ outputs.u_inventory_source = obj.inventory_source;
         <sys_id>f9a575d1dba044d0a9ed3967f496190a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Error Message</sys_name>
-        <sys_package display_value="ACE Ansible Management" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
+        <sys_package display_value="ACN Ansible Spoke" source="x_snc_ansible_mana">20b534dedb1b9340786ff1351d961991</sys_package>
         <sys_policy/>
-        <sys_scope display_value="ACE Ansible Management">20b534dedb1b9340786ff1351d961991</sys_scope>
+        <sys_scope display_value="ACN Ansible Spoke">20b534dedb1b9340786ff1351d961991</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_25a535d1dba044d0a9ed3967f496196d_error_message_en</sys_update_name>
         <sys_updated_by>david.loo</sys_updated_by>
         <sys_updated_on>2019-10-16 13:16:18</sys_updated_on>
